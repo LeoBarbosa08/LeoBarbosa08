@@ -6,7 +6,7 @@
 - 🔭 Atualmente trabalhando como suporte em aplicações na <b>ASSEMBLEIA LEGISTATIVA DE MINAS GERAIS</b> (<a href= "https://www.almg.gov.br/" target="_blank">ALMG</a>)
 - 🌱 Cursando Ciências da computação na Universidade <b>FUMEC-BH</b>
 - 📈 Tenho como objetivo ingressar na área de desenvolvimento de aplicações
-<br>
+
 
 <h3> <b>MEUS STATS</b></h3>
 
