@@ -4,8 +4,8 @@
 
 
 - 🔭 Currently working as Tech support at the Legislative Assembly of Minas Gerais <b>ASSEMBLEIA LEGISTATIVA DE MINAS GERAIS</b> (<a href= "https://www.almg.gov.br/" target="_blank">ALMG</a>)
-- 🌱 Cursando Ciências da computação na Universidade <b>FUMEC-BH</b>
-- 📈 Tenho como objetivo ingressar na área de desenvolvimento de aplicações
+- 🌱 Graduating in computer science <b>FUMEC-BH</b>
+- 📈 Aiming to work in the application development market
 
 
 <h3> <b>MEUS STATS</b></h3>
