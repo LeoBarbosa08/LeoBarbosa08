@@ -1,4 +1,4 @@
-<h1 style="color:blue;"><b>|| About ||</b></h1>
+<h1 style="color:blue;"><b>|| ABOUT ||</b></h1>
 
 
 
@@ -18,7 +18,7 @@
   
   
 <br>
-<h4>\\ Languages //</h4>
+<h4>\\ LANGUAGES //</h4>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
